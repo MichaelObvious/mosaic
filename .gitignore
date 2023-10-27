@@ -1,1 +1,12 @@
 /target
+*.jpg
+*.jpeg
+*.JPG
+*.png
+*.PNG
+*.gif
+*.webp
+*.svg
+*.xcf
+*.psd
+*.kra
